@@ -5,4 +5,7 @@
 ## 📦 Instalação
 
 npm install -g youtube-tags-scraper
+
+## Comando
+
 yt-tags
