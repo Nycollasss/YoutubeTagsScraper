@@ -1,0 +1,17 @@
+{
+  "name": "youtube-tags-scraper",
+  "version": "1.0.2",
+  "description": "Pega tags de vídeos em alta no YouTube usando Puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "bin": {
+    "yt-tags": "./index.js"
+  },
+  "author": "Nark",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^21.6.0"
+  }
+}
